@@ -1,0 +1,14 @@
+html, body{
+	margin: 0;
+	padding: 0
+}
+
+header, main{
+	display: block
+}
+
+
+.main{
+	height: calc(100vh - 60px);
+	position: relative;
+}
