@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/squarebox/static/css/main.3d655d53.chunk.css",
+    "main.js": "/squarebox/static/js/main.5061be65.chunk.js",
+    "main.js.map": "/squarebox/static/js/main.5061be65.chunk.js.map",
+    "runtime-main.js": "/squarebox/static/js/runtime-main.4a0110f8.js",
+    "runtime-main.js.map": "/squarebox/static/js/runtime-main.4a0110f8.js.map",
+    "static/js/2.ab5eb57c.chunk.js": "/squarebox/static/js/2.ab5eb57c.chunk.js",
+    "static/js/2.ab5eb57c.chunk.js.map": "/squarebox/static/js/2.ab5eb57c.chunk.js.map",
+    "index.html": "/squarebox/index.html",
+    "precache-manifest.bd931e34473d07c6f0351bb7d222612c.js": "/squarebox/precache-manifest.bd931e34473d07c6f0351bb7d222612c.js",
+    "service-worker.js": "/squarebox/service-worker.js",
+    "static/css/main.3d655d53.chunk.css.map": "/squarebox/static/css/main.3d655d53.chunk.css.map",
+    "static/js/2.ab5eb57c.chunk.js.LICENSE.txt": "/squarebox/static/js/2.ab5eb57c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a0110f8.js",
+    "static/js/2.ab5eb57c.chunk.js",
+    "static/css/main.3d655d53.chunk.css",
+    "static/js/main.5061be65.chunk.js"
+  ]
+}
